@@ -1,0 +1,3 @@
+﻿  BasicCalculator.cpp
+C:\Users\amg\source\repos\Basic Calculator\Basic Calculator\BasicCalculator.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Basic Calculator.vcxproj -> C:\Users\amg\source\repos\Basic Calculator\Debug\Basic Calculator.exe
